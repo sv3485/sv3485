@@ -1,39 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Vivek%20Reddy%20Sabbella&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Generative%20AI%20Developer&descAlignY=58"/>
+<img src="./assets/hero.png" width="100%" alt="Hero Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+Applications;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+Machine+Learning;Always+Learning+Something+New+🚀" />
+<br>
 
-<p>
-<a href="https://github.com/sv3485">
-<img src="https://img.shields.io/github/followers/sv3485?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sabbella-vivek-reddy-0911a7288/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:svivekreddy2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/LqBzIP3xeW/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=sv3485&style=flat-square&color=blue"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI-powered+Applications;Generative+AI+•+LLMs+•+Computer+Vision;Always+Learning.+Always+Building."/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Vivek Reddy Sabbella**, a B.Tech **Computer Science (AI & ML)** student at **SRM Institute of Science and Technology**.
+I'm **Vivek Reddy Sabbella**, a B.Tech Computer Science (AI & ML) student at **SRM Institute of Science and Technology**.
 
-I enjoy building intelligent software using **Generative AI**, **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **Machine Learning** to solve real-world problems.
+I'm passionate about building intelligent software using **Large Language Models (LLMs)**, **Computer Vision**, **Generative AI**, and **Retrieval-Augmented Generation (RAG)** to solve real-world problems.
 
 ---
 
@@ -41,22 +22,13 @@ I enjoy building intelligent software using **Generative AI**, **Large Language 
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,tensorflow,pytorch,opencv,mysql,postgres,docker,aws,git&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,fastapi,react,mysql,docker,aws,git"/>
 
 </p>
 
 ---
 
-## 🚀 Current Focus
-
-- 🤖 Building AI-powered applications
-- 🧠 Exploring AI Agents & LangGraph
-- ☁️ Learning scalable backend systems
-- 📚 Practicing DSA & System Design
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
 
@@ -76,8 +48,22 @@ I enjoy building intelligent software using **Generative AI**, **Large Language 
 
 <div align="center">
 
-### 💡 *"Building intelligent software that creates real-world impact."*
+### 📫 Let's Connect
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
+<a href="https://github.com/sv3485">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sabbella-vivek-reddy-0911a7288/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:svivekreddy2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/u/LqBzIP3xeW/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
 
 </div>
