@@ -1,17 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm Vivek Reddy Sabbella
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,12,20,24&text=Vivek%20Reddy%20Sabbella&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Generative%20AI%20Developer&descAlignY=58"/>
 
-### AI Engineer • Generative AI Developer • Software Engineer
-
-Building intelligent applications with **Generative AI, Large Language Models, Computer Vision, and Full-Stack Development**.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+Applications;Generative+AI+%7C+LLMs+%7C+RAG;Computer+Vision+%7C+Machine+Learning;Always+Learning+Something+New+🚀" />
 
 <p>
 <a href="https://github.com/sv3485">
 <img src="https://img.shields.io/github/followers/sv3485?style=for-the-badge&logo=github"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=sv3485&style=for-the-badge"/>
 
 <a href="https://www.linkedin.com/in/sabbella-vivek-reddy-0911a7288/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -27,63 +23,36 @@ Building intelligent applications with **Generative AI, Large Language Models, C
 
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=sv3485&style=flat-square&color=blue"/>
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science (AI & ML)** student at **SRM Institute of Science and Technology** with a passion for building intelligent systems that solve real-world problems.
+I'm **Vivek Reddy Sabbella**, a B.Tech **Computer Science (AI & ML)** student at **SRM Institute of Science and Technology**.
 
-My primary interests include **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Computer Vision, Deep Learning, and AI-powered Full-Stack Applications**.
-
-I enjoy taking ideas from research to production by combining modern AI technologies with scalable software engineering practices.
+I enjoy building intelligent software using **Generative AI**, **Large Language Models**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, and **Machine Learning** to solve real-world problems.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## ⚡ Tech Stack
 
-- 🤖 Building AI-powered applications using LLMs
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,react,fastapi,tensorflow,pytorch,opencv,mysql,postgres,docker,aws,git&perline=7"/>
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🤖 Building AI-powered applications
 - 🧠 Exploring AI Agents & LangGraph
-- 📚 Practicing Data Structures & Algorithms
-- ☁️ Learning scalable backend systems and cloud technologies
-- 🌱 Contributing to AI and Machine Learning projects
-
----
-
-## 🛠 Tech Stack
-
-**Languages**
-
-`Python` • `Java` • `C++` • `JavaScript` • `TypeScript` • `SQL`
-
-**AI / ML**
-
-`Generative AI` • `LLMs` • `RAG` • `LangChain` • `Prompt Engineering`
-
-`TensorFlow` • `PyTorch` • `OpenCV` • `Scikit-Learn`
-
-**Backend**
-
-`FastAPI` • `Node.js` • `REST APIs`
-
-**Frontend**
-
-`React` • `Next.js` • `Tailwind CSS`
-
-**Database & Cloud**
-
-`PostgreSQL` • `MongoDB` • `Supabase` • `AWS`
-
----
-
-## 🌟 Featured Projects
-
-- 🤖 **RAG for LLMs** — Retrieval-Augmented Generation system
-- 💊 **MediFill** — AI-powered prescription understanding
-- 🩺 **AI Physio** — Real-time rehabilitation pose assessment
-- 🌾 **Smart Crop Rotatory Advisor** — ML-based agriculture recommendation system
-- 📈 **Stock Screener** — Real-time financial analytics platform
+- ☁️ Learning scalable backend systems
+- 📚 Practicing DSA & System Design
 
 ---
 
@@ -105,19 +74,10 @@ I enjoy taking ideas from research to production by combining modern AI technolo
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sabbella-vivek-reddy-0911a7288/
-- 💻 GitHub: https://github.com/sv3485
-- 📧 Email: **svivekreddy2005@gmail.com**
-- 💡 LeetCode: https://leetcode.com/u/LqBzIP3xeW/
-
----
-
 <div align="center">
 
-**"Building AI that is practical, scalable, and impactful."**
+### 💡 *"Building intelligent software that creates real-world impact."*
 
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=6,12,20,24"/>
 
 </div>
