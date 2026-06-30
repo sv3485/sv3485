@@ -1,187 +1,147 @@
-
-# Hi there, I'm Vivek Reddy Sabbella 👋
+<!-- ======================= HEADER ======================= -->
 
 <div align="center">
 
-### 🚀 AI Engineer • Generative AI Developer • Software Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Vivek+Reddy+Sabbella;AI+Engineer+%7C+Generative+AI+Developer;Building+Production+Ready+AI+Applications;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+Full+Stack" />
 
-Building AI-powered products using **LLMs, RAG, Computer Vision, and Full-Stack Development**
+<br>
 
+<img src="https://img.shields.io/badge/B.Tech-AI%20%26%20ML-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SRMIST-CGPA%209.21-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%20Opportunities-purple?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"/> About Me
 
 ```python
 class VivekReddy:
 
-    def __init__(self):
+    role = "AI Engineer"
 
-        self.role = "AI Engineer"
+    education = "B.Tech CSE (AI & ML) @ SRM Institute of Science and Technology"
 
-        self.education = {
-            "Degree": "B.Tech Computer Science (AI & ML)",
-            "University": "SRM Institute of Science and Technology",
-            "CGPA": "9.21/10"
-        }
+    cgpa = "9.21 / 10"
 
-        self.specialization = [
-            "Generative AI",
-            "Prompt Engineering",
-            "Large Language Models",
-            "Retrieval-Augmented Generation",
-            "Computer Vision"
-        ]
+    interests = [
+        "Generative AI",
+        "LLMs",
+        "AI Agents",
+        "Prompt Engineering",
+        "RAG",
+        "Computer Vision",
+        "Backend Engineering"
+    ]
 
-        self.currently_learning = [
-            "AI Agents",
-            "LangGraph",
-            "System Design",
-            "Cloud Deployment"
-        ]
+    currently_building = [
+        "Production AI Applications",
+        "LangChain Projects",
+        "FastAPI Backends",
+        "AI Dashboards"
+    ]
 
-        self.languages = [
-            "Python",
-            "Java",
-            "C++",
-            "SQL"
-        ]
-
-        self.goal = "Building production-ready AI systems."
-
-me = VivekReddy()
+    motto = "Build. Learn. Deploy. Repeat."
 ```
 
 ---
 
-# 🚀 Experience
+# 🚀 Tech Universe
 
-- **AI/ML Intern** — Labmentix Pvt. Ltd.
-- **Artificial Intelligence Intern** — Teachnook
-- **Embedded Systems Intern** — AICTE EduSkills (Microchip)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,fastapi,mysql,postgres,mongodb,tensorflow,pytorch,opencv,docker,aws,git,github,vscode&perline=10"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLOv8-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge"/>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Experience
 
-## Languages
-![Skills](https://skillicons.dev/icons?i=python,java,cpp,sql)
-
-## AI / ML
-![Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)
-
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-orange?style=for-the-badge)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-blueviolet?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-blue?style=for-the-badge)
-
-## Backend
-![Skills](https://skillicons.dev/icons?i=fastapi,nodejs)
-
-## Cloud
-![Skills](https://skillicons.dev/icons?i=aws,docker,git,github)
+| Company | Role |
+|---------|------|
+| 🧠 Labmentix | AI/ML Intern |
+| 🤖 Teachnook | Artificial Intelligence Intern |
+| ⚙️ AICTE EduSkills | Embedded Systems Intern |
 
 ---
 
 # 🚀 Featured Projects
 
-### 🧬 Protein Function Prediction
-- Deep Learning
-- Bioinformatics
-- Gene Ontology Classification
-
-### 🤖 Retrieval-Augmented Generation (RAG)
-- LangChain
-- Vector Database
-- LLM Integration
-
-### 💊 MediFill — AI Prescription Assistant
-- NLP
-- Generative AI
-- Structured Medicine Extraction
-
-### 💬 AI Customer Support Dashboard
-- AI Chatbot
-- Ticket Automation
-- Full Stack
-
----
-
-# 🏆 Certifications
-
-- Microsoft Azure Data Fundamentals
-- NVIDIA — Evaluation & Customization of LLMs
-- Oracle Cloud Infrastructure AI Foundations Associate
-- NPTEL — Introduction to Machine Learning
+- 🧬 Protein Function Prediction
+- 🤖 Retrieval-Augmented Generation (RAG)
+- 💊 MediFill – AI Prescription Assistant
+- 💬 AI Customer Support Dashboard
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img width="48%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 </p>
+
+---
+
+# 🏆 Achievements
+
+🏅 Microsoft Azure Data Fundamentals
+
+🏅 NVIDIA LLM Evaluation & Customization
+
+🏅 Oracle OCI AI Foundations
+
+🏅 NPTEL Machine Learning
 
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions to generate this animation.
+
+```yaml
+uses: Platane/snk
+```
+
+---
+
+# 🌎 Connect
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true"/>
+<a href="mailto:svivekreddy2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 </p>
-
----
-
-# 🌱 Currently Learning
-
-- AI Agents
-- LangGraph
-- Advanced RAG
-- FastAPI
-- AWS
-- System Design
-- Scalable AI Applications
-
----
-
-# 📫 Connect With Me
-
-- 📧 svivekreddy2005@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- 💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
 
 ---
 
 <div align="center">
 
-## 💡 Quote
+### 💡 *"Turning research into real-world AI products."*
 
-**"Building intelligent software that creates real-world impact."**
-
-⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:7c3aed&section=footer"/>
 
 </div>
