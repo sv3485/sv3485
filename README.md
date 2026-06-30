@@ -7,10 +7,6 @@
 
 Building AI-powered products using **LLMs, RAG, Computer Vision, and Full-Stack Development**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge" />
-</p>
 
 </div>
 
